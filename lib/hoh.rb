@@ -63,7 +63,7 @@ p= {
     }
    }
  }
- binding.pry p[sub_category][sub_category][sub_category]
+ binding.pry 
 p
 
 end
